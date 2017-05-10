@@ -1,8 +1,8 @@
 # Games preferidas da equipe
 
-## Membro 1
+## Gustavo
 
-* Game A
-* Game B
-* Game C
-* Game D
+* Fifa 17
+* The last of us
+* CS
+* Skyrim
