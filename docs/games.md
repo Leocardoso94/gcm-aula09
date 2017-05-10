@@ -2,7 +2,7 @@
 
 ## Membro 1
 
-* Game A
-* Game B
-* Game C
-* Game D
+* Fifa
+* Mario Brother
+* Driver
+* Sonic
