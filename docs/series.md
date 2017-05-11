@@ -1,8 +1,8 @@
 # Séries preferidas da equipe
 
-## Membro 1
+## Rodrigo
 
-* Série A
-* Série B
-* Série C
-* Série D
+* Walking dead
+* The big bang theory
+* Todo mundo odeia o Crhis
+* CSI
