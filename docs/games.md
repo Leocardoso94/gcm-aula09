@@ -1,6 +1,13 @@
 # Games preferidas da equipe
 
-## Membro 1
+## Gustavo
+
+* Fifa 17
+* The last of us
+* CS
+* Skyrim
+
+## Rodrigo
 
 * Fifa
 * Mario Brother
