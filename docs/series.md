@@ -1,8 +1,17 @@
 # Séries preferidas da equipe
 
-## Membro 1
 
-* Série A
-* Série B
-* Série C
-* Série D
+## Gustavo
+
+* Todo mundo odeia o Chris
+* Two and a half men
+* CSI
+* Senhorita Polvora
+
+## Rodrigo
+
+* Walking dead
+* The big bang theory
+* Todo mundo odeia o Crhis
+* CSI
+
